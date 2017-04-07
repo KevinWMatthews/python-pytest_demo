@@ -1,0 +1,6 @@
+# Configure a virtual environment
+virtualenv venv
+source venv/bin/activate
+
+# Install and upgrade pytest
+pip install -U pytest

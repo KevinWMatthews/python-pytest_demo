@@ -1,4 +1,10 @@
+# Ignore python virtual environment
 venv/
+
+# Ignore pytest cache
+.cache/
+
+# Ignore python compiled files
 *.pyc
 
 *.swp
